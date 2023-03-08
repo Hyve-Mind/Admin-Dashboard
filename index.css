@@ -1,0 +1,217 @@
+* {
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+   display: flex;
+   justify-content: center !important;
+}
+
+.sidebar {
+   background: rgb(35, 10, 58);
+   color: white;
+   width: 250px;
+   height: 600px;
+   align-items: center;
+}
+
+
+
+ul {
+   display: flex;
+   flex-direction: column;
+}
+
+
+
+.icon {
+   margin-bottom: 17px;
+}
+
+.dashb {
+   font-size: 25px;
+   padding-bottom: 20px;margin-left: 39px;
+   margin-top: 15px;
+}
+
+
+input {
+   margin-left: 10px;
+   width: 300px;
+   height: 19px;
+   border-radius: 10px;
+   background: #b1a4a4;
+   border: none;
+}
+
+#icons {
+   padding-right: 15px;
+   font-size: 15px;
+}
+
+.search {
+   padding-top: 7px;
+   display: flex;
+}
+
+
+
+#dash {
+   font-size: 40px;
+}
+
+
+a {
+   text-decoration: none;
+   color: white;
+   line-height: 40px;
+   font-size: 15px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-weight: bold;
+   transition: .5s;
+
+}
+
+ul a:hover {
+   padding-left: 20px;
+}
+
+a:hover {
+   color: rgb(191, 119, 209);
+   left: 40px;
+}
+
+.naruto {
+   width: 33px;
+   margin-left: 15px;
+   margin-right: 15px;
+}
+
+.narutoe {
+   width: 70px;
+   height: 70px;
+   align-items: center;
+}
+
+.underneath {
+   display: flex;
+   margin-top: 50px;
+   align-items: center;
+   margin-bottom: 15px;
+}
+
+.images {
+   display: flex;
+   align-items: center;
+}
+
+#secondmargin {
+   padding-left: 10px;
+}
+
+#hi {
+   font-size: 9px;
+   font-weight: bold;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#Oakley {
+   font-size: 17px;
+   font-weight: bold;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#buttons {
+   margin-left: auto;
+}
+
+button {
+   background: rgb(35, 10, 58);
+   color: white;
+   border-radius: 22px;
+   padding: 9px;
+   border: none;
+   width: 67px;
+   margin: 7px;
+}
+
+
+.secondslide {
+   width: 630px;
+   align-items: center;
+   background: white;
+   padding-left: 19px;
+   padding-right: 25px;
+   height: fit-content;
+   border-bottom: 3px solid white;
+
+}
+
+.thirdslide {
+   padding-left: 19px;
+   padding-right: 25px;
+}
+
+
+#containertwo {
+   background: rgb(211, 209, 209);
+}
+.name {
+   color: #000000;
+   font-weight: bold;
+   font-size: 13px;
+   padding-right: 10px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header2 {
+   display: flex;
+   padding-top: 15px;
+}
+
+.margin {
+   margin-left: auto;
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+   min-width: 70px;
+}
+
+/* Third slide */
+
+.heading {
+   font-weight: bold;
+   margin: 0; 
+   padding: 0;
+}
+
+.gridholder {
+   display: grid;
+   grid-template-columns: repeat(2, 1fr);
+   width: 500px;
+   column-gap: 10px;
+   row-gap: 20px;
+}
+
+.topper {
+   font-size: 13px;
+   font-weight: bold;
+}
+
+p {
+   font-size: 10px;
+   line-height: 15px;
+}
+
+.grid1,
+.grid2,
+.grid3,
+.grid4,
+.grid5,
+.grid6 {
+   background: white;
+   border-radius: 9px;
+   padding: 11px;
+}
+
