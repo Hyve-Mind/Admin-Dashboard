@@ -179,7 +179,7 @@ button {
 
 
 #icons {
-   padding-right: 8px;
+   padding-right: 7px;
    font-size: 15px;
 }
 
@@ -425,8 +425,27 @@ p {
      
    }
 
+ 
+
+   
+}
+
+@media (max-width:600px) {
+   .narutoe {
+      width: 35px;
+      height: 30px;
+   }
+
+   #hi {
+      font-size: 7px;
+   }
+
+   #Oakley {
+      font-size: 10px;
+   }
+
    .announce {
-      font-size: 12px;
+      font-size: 11px;
       margin-left: auto;
       margin-right: 30px;
       
