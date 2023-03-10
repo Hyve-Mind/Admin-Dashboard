@@ -246,6 +246,9 @@ button {
 .maint {
    font-size: 10px;
    font-weight: bold;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   padding: 9px;
   
 }
 
@@ -263,7 +266,7 @@ button {
 .lorem {
    font-weight: 6px;
    border-bottom: 1px solid rgb(161, 156, 156);
-   padding-bottom: 9px;
+   padding: 3px;
 }
 
 .topper {
@@ -307,7 +310,7 @@ p {
 #icon {
    color: rgb(155, 154, 154);
    font-size: 12px;
-   align-items: center;
+   align-items: right;
 }
 
 .share {
@@ -326,13 +329,7 @@ p {
 
 }
 
-.grid3 {
-   background: white;
-   padding: 11px;
-   border-radius: 5px;
-   display: grid;
-   align-self  : flex-end;
-}
+
 
 .topper {
    font-size: 13px;
