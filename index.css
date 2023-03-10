@@ -306,7 +306,7 @@ p {
    background: white;
    padding: 3px;
    border-radius: 5px;
-   height: fit-content;
+   height: 220px;
    
 }
 
@@ -314,8 +314,19 @@ p {
    background: white;
    padding: 3px;
    border-radius: 5px;
+   height: 150px;
 }
 
+
+#icon {
+   color: rgb(155, 154, 154);
+   font-size: 12px;
+   align-items: center;
+}
+
+.share {
+   margin-left: auto;
+}
 
 
 
