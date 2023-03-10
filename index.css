@@ -3,17 +3,11 @@
    margin: 0;
    padding: 0;
 }
-body {
-   justify-content: center;
-}
-
-
-
 
 #container {
    margin: 40px;
-   margin-right: 250px;
-   margin-left: 250px;
+   margin-right: 100px;
+   margin-left: 100px;
 }
 
 .firstgridholder {
@@ -306,7 +300,6 @@ p {
    background: white;
    padding: 3px;
    border-radius: 5px;
-   height: 220px;
    
 }
 
