@@ -5,9 +5,7 @@
 }
 
 #container {
-   margin: 40px;
-   margin-right: 100px;
-   margin-left: 100px;
+
 }
 
 .firstgridholder {
@@ -198,12 +196,6 @@ button {
 
 
 
-
-
-
-
-
-
 #hi {
    font-size: 9px;
    font-weight: bold;
@@ -243,7 +235,7 @@ button {
 .heading {
    font-size: 20px;
    display: flex;
-   margin-top: 15px;
+   padding-top: 15px;
    margin-bottom: 15px;
    font-weight: bold;
   
@@ -276,14 +268,14 @@ button {
 .topper {
    font-size: 10px;
    font-weight: 10px;
-   display: contents;
+   
 }
 
 
 p {
    font-size: 9px;
-   line-height: 15px;
-   padding-bottom: ;
+   line-height: 13px;
+   padding-bottom: 7px;
 }
 
 
@@ -291,7 +283,7 @@ p {
    display: grid;
    grid-template-columns: repeat(3, 1fr);
    grid-auto-rows: minmax(100px, auto);
-   grid-gap: 15px;
+   grid-gap: 13px;
 }
 
 .grid7
@@ -300,14 +292,14 @@ p {
    background: white;
    padding: 3px;
    border-radius: 5px;
-   
+   height: fit-content;
 }
 
 .grid8 {
    background: white;
    padding: 3px;
    border-radius: 5px;
-   height: 150px;
+   
 }
 
 
@@ -427,8 +419,8 @@ p {
    .heading {
       font-size: 12px;
       display: flex;
-      margin-top: 17px;
-      margin-bottom: 10px;
+      padding-top: 17px;
+     
       font-weight: 15px;
      
    }
@@ -441,7 +433,7 @@ p {
    }
 
    .project {
-      font-size: 12px;
+      font-size: 11px;
    }
 }
 
